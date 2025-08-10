@@ -178,6 +178,9 @@
   .min-h-screen {
     min-height: 100vh;
   }
+  .max-w-\[20rem\] {
+    max-width: 20rem;
+  }
   .max-w-\[320px\] {
     max-width: 320px;
   }
